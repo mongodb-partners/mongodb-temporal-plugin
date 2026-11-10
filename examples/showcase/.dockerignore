@@ -1,0 +1,5 @@
+**/*_test.go
+ui/node_modules
+ui/*.tsbuildinfo
+web/dist/assets
+web/dist/index.html
